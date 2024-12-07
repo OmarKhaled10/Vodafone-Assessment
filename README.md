@@ -13,7 +13,7 @@ First API Assessment:
   3) Run the XML file and you will get the status for the 3 scenarios.
 
 - Extent Report:
-  The report is automatically generated and also could be found under API Automatio Assessment directory.
+  The report is automatically generated and also could be found under API Automation Assessment directory.
  
 - Video Link:
 https://drive.google.com/drive/folders/1SPAs0w0Q1oZAs2tNwsqxQb-0inT0D0FK?usp=sharing
@@ -32,7 +32,7 @@ Second Web Assessment:
   3) By running the TestRunner , The 2 Scenarios are executed.
  
 - Extent Report:
-  The report is automatically generated and also could be found under API Automatio Assessment directory.
+  The report is automatically generated and also could be found under Web Automation Assessment directory.
  
 - Video Link:
 https://screenrec.com/share/ik9mDol27q
