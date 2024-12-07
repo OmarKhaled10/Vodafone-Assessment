@@ -19,7 +19,7 @@ public class WebScenario2 {
     private WebDriver driver; // initializing a WebDriver named driver
     private static ExtentReports extent; // creating an ExtentReports object for reporting
     private static ExtentTest test; // initializing an ExtentTest object for test cases
-    String username = "Test User35"; // initiallizing a string for the username to be logged in with
+    String username = "Test User36"; // initiallizing a string for the username to be logged in with
     String password = "12345"; // initiallizing a string for the password to be logged in with
 
     // Initialize Extent Reports
