@@ -18,7 +18,7 @@ public class WebScenario1 {
     static ExtentReports extent; // creating an extent report object called extent
     static ExtentTest test; // initiallizing an extenttest object called test
 
-    String username = "Test User35"; // initiallizing a string for the username to be signned up with
+    String username = "Test User36"; // initiallizing a string for the username to be signned up with
     String password = "12345"; // initiallizing a string for the password to be signned up with
 
     static {
