@@ -1,0 +1,9 @@
+<suite name="API Automation Suite">
+    <test name="API Automation Tests">
+        <classes>
+            <class name="Tests.APIScenario1" />
+            <class name="Tests.APIScenario2" />
+            <class name="Tests.APIScenario3" />
+        </classes>
+    </test>
+</suite>
